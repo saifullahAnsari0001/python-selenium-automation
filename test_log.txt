@@ -1,0 +1,8 @@
+2024-03-26 03:12:34,466 - INFO - Page load time: 0.80 seconds
+2024-03-26 03:12:34,476 - INFO - HTTP response code: 200
+2024-03-26 22:46:49,653 - INFO - Page load time: 0.65 seconds
+2024-03-26 22:46:49,664 - INFO - HTTP response code: 200
+2024-03-26 22:47:00,737 - INFO - New page URL: https://atg.party/article
+2024-03-26 23:12:33,147 - INFO - Page load time: 0.70 seconds
+2024-03-26 23:12:33,157 - INFO - HTTP response code: 200
+2024-03-26 23:12:45,001 - INFO - New page URL: https://atg.party/article
